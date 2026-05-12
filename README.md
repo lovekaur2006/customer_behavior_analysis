@@ -108,6 +108,7 @@ Discount offers and promo codes positively impact spending.
 Digital payment methods are widely preferred.
 Subscription customers tend to make more frequent purchases.
 📁 Project Structure
+
 Customer-Shopping-Behavior-Analysis/
 │── data/
 │   └── customer_shopping_behavior.csv
@@ -125,16 +126,16 @@ Customer-Shopping-Behavior-Analysis/
 
 🚀 How to Run the Project
 1. Clone the Repository
-git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
+git clone https://github.com/lovekaur2006/customer_behavior_analysis.git
 cd customer-shopping-behavior-analysis
-2. Install Required Libraries
+3. Install Required Libraries
 pip install pandas 
-3. Run the Jupyter Notebook
+4. Run the Jupyter Notebook
 jupyter notebook
-4. Execute SQL Queries
+5. Execute SQL Queries
 Import the cleaned dataset into PostgreSQL, MySQL, or SQL Server.
 Run the queries in customer_queries.sql.
-5. Open Power BI Dashboard
+6. Open Power BI Dashboard
 Open customer_shopping_dashboard.pbix.
 Refresh the dataset if necessary.
 
