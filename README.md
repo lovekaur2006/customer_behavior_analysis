@@ -1,3 +1,5 @@
+CUSTOMER SHOPPING BEHAVIOR ANALYSIS PROJECT:
+
 A comprehensive data analytics project that explores customer purchasing patterns using Python, SQL, and Power BI. This project demonstrates the complete analytics lifecycle—from data preprocessing and exploratory data analysis (EDA) to SQL-based querying, dashboard development, and business insight generation.
 
 📌 Project Overview
